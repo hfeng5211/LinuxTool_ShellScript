@@ -14,6 +14,9 @@ use the two command：
 ```
      sh speedtest.sh
 ``` 
-    
+测试速度
+```
+     sh speedtest.sh
+``` 
     
  
