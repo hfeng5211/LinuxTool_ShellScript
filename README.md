@@ -16,7 +16,7 @@ use the two command：
 ``` 
 测试速度
 ```
-     sh speedtest.sh
+     speedtest
 ``` 
     
  
